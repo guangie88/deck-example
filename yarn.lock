@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@deck.gl/core@^5.3.0-rc", "@deck.gl/core@^5.3.1":
+"@deck.gl/core@^5.3.1":
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/@deck.gl/core/-/core-5.3.1.tgz#acfc1e5fefd3b12e9142419b0aeb77c07885626c"
   dependencies:
@@ -13,7 +13,7 @@
     seer "^0.2.4"
     viewport-mercator-project "^5.1.0"
 
-"@deck.gl/layers@^5.3.0-rc":
+"@deck.gl/layers@^5.3.2":
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/@deck.gl/layers/-/layers-5.3.2.tgz#c76b9a7890305a5d6a0fdd56bd0d0d68d4046f6f"
   dependencies:

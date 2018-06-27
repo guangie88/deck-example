@@ -1,6 +1,6 @@
 {
-  "name": "pure-js",
-  "version": "0.0.0",
+  "name": "deck-example",
+  "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --progress --hot --open",
@@ -8,8 +8,8 @@
     "build": "NODE_ENV=production webpack --env.prod=true"
   },
   "dependencies": {
-    "@deck.gl/core": "^5.3.0-rc",
-    "@deck.gl/layers": "^5.3.0-rc",
+    "@deck.gl/core": "^5.3.1",
+    "@deck.gl/layers": "^5.3.2",
     "mapbox-gl": "~0.44.2",
     "stats.js": "^0.17.0"
   },
