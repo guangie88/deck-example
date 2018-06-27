@@ -1,14 +1,23 @@
 {
-  "dependencies": {
-    "@deck.gl/core": "^5.3.1",
-    "@deck.gl/layers": "^5.3.2",
-    "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-2": "^6.24.1",
-    "deck.gl": "^5.3.2",
-    "gl": "^4.0.4"
-  },
+  "name": "pure-js",
+  "version": "0.0.0",
+  "license": "MIT",
   "scripts": {
-    "start": "babel-node server.js --presets es2015,stage-2"
+    "start": "webpack-dev-server --progress --hot --open",
+    "start-local": "webpack-dev-server --env.local --progress --hot --open",
+    "build": "NODE_ENV=production webpack --env.prod=true"
+  },
+  "dependencies": {
+    "@deck.gl/core": "^5.3.0-rc",
+    "@deck.gl/layers": "^5.3.0-rc",
+    "mapbox-gl": "~0.44.2",
+    "stats.js": "^0.17.0"
+  },
+  "devDependencies": {
+    "buble": "^0.19.3",
+    "buble-loader": "^0.5.0",
+    "webpack": "^4.3.0",
+    "webpack-cli": "^2.0.13",
+    "webpack-dev-server": "^3.1.1"
   }
 }
