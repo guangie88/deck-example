@@ -13,7 +13,8 @@ const MAPBOX_TOKEN =
 
 // Source data CSV
 const DATA_URL = {
-  MRTS: "./stns.json", // eslint-disable-line
+  DATA0: "./data0.json", // eslint-disable-line
+  DATA1: "./data1.json", // eslint-disable-line
   FLIGHT_PATHS: "./route_temp.json" // eslint-disable-line
 };
 
@@ -28,26 +29,49 @@ const INITIAL_VIEW_STATE = {
 class Root extends Component {
   constructor(props) {
     super(props);
+
     this.state = {
       viewport: INITIAL_VIEW_STATE,
       width: 500,
       height: 500,
-      mrts: null
+      
+      data: null,
+      data0: null,
+      data1: null,
+      seconds: 0,
     };
 
-    readJsonUrl(DATA_URL.MRTS, (error, response) => {
+    readJsonUrl(DATA_URL.DATA0, (error, response) => {
       if (!error) {
-        this.setState({ mrts: response });
-        console.log("Loaded!");
+        this.setState({ data: response, data0: response });
+
+        // set interval firing after the first load
+        this.interval = setInterval(() => this._tick(), 1000);
+      } else {
+        console.log(error);
+      }
+    });
+
+    readJsonUrl(DATA_URL.DATA1, (error, response) => {
+      if (!error) {
+        this.setState({ data1: response });
       } else {
         console.log(error);
       }
     });
   }
 
-  componentDidMount() {
-    window.addEventListener("resize", this._resize.bind(this));
-    this._resize();
+  _tick() {
+    this.setState(prevState => {
+      const nextData = prevState.seconds % 2 == 0
+        ? this.state.data0
+        : this.state.data1;
+
+      return {
+        data: nextData,
+        seconds: prevState.seconds + 1
+      };
+    });
   }
 
   _resize() {
@@ -61,8 +85,22 @@ class Root extends Component {
     this.setState({ viewport: { ...this.state.viewport, ...viewport } });
   }
 
+  componentDidMount() {
+    window.addEventListener("resize", this._resize.bind(this));
+    this._resize();
+
+    // shifted into 
+    // this.interval = setInterval(() => this._tick(), 1000);
+  }
+  
+  componentWillUnmount() {
+    clearInterval(this.interval);
+  }
+
   render() {
-    const { viewport, mrts } = this.state;
+    console.log(`Seconds: ${this.state.seconds}`);
+
+    const { viewport, data } = this.state;
 
     return (
       <MapGL
@@ -71,12 +109,11 @@ class Root extends Component {
         onViewportChange={this._onViewportChange.bind(this)}
         mapboxApiAccessToken={MAPBOX_TOKEN}
       >
-        {" "}
         <DeckGLOverlay
           viewport={viewport}
           strokeWidth={1}
           flightPaths={null}
-          mrts={mrts}
+          points={data}
         />
       </MapGL>
     );

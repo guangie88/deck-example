@@ -1,0 +1,1073 @@
+[
+  {
+    "type": "minor",
+    "name": "Yio Chu Kang",
+    "abbrev": "Yio",
+    "coordinates": [
+      103.84495938299999,
+      1.381771391
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Ang Mo Kio",
+    "abbrev": "Ang",
+    "coordinates": [
+      103.849531808,
+      1.3700517566
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bishan",
+    "abbrev": "Bis",
+    "coordinates": [
+      103.84825620000001,
+      1.3514528937
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Braddell",
+    "abbrev": "Bra",
+    "coordinates": [
+      103.846782963,
+      1.3405952587999999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Toa Payoh",
+    "abbrev": "Toa",
+    "coordinates": [
+      103.847321952,
+      1.3322881027
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Novena",
+    "abbrev": "Nov",
+    "coordinates": [
+      103.843486146,
+      1.3200832681999999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Newton",
+    "abbrev": "New",
+    "coordinates": [
+      103.838859822,
+      1.3129525276
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Orchard",
+    "abbrev": "Orc",
+    "coordinates": [
+      103.83207754200001,
+      1.303828024
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Somerset",
+    "abbrev": "Som",
+    "coordinates": [
+      103.83850049600001,
+      1.3003254990000002
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Dhoby Ghaut",
+    "abbrev": "Dho",
+    "coordinates": [
+      103.84501328200001,
+      1.2987807941
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "City Hall",
+    "abbrev": "Cit",
+    "coordinates": [
+      103.852568114,
+      1.2930420276999999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Raffles Place",
+    "abbrev": "Raf",
+    "coordinates": [
+      103.851463186,
+      1.2844024205
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Marina Bay",
+    "abbrev": "Mar",
+    "coordinates": [
+      103.854625256,
+      1.2759873073
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tanjong Pagar",
+    "abbrev": "Tan",
+    "coordinates": [
+      103.845875665,
+      1.2765710674
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Outram Park",
+    "abbrev": "Out",
+    "coordinates": [
+      103.840234245,
+      1.2806843270000001
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tiong Bahru",
+    "abbrev": "Tio",
+    "coordinates": [
+      103.827639865,
+      1.2860908284
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Redhill",
+    "abbrev": "Red",
+    "coordinates": [
+      103.81675228299999,
+      1.2896472583
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Queenstown",
+    "abbrev": "Que",
+    "coordinates": [
+      103.806044365,
+      1.2945508126
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Commonwealth",
+    "abbrev": "Com",
+    "coordinates": [
+      103.79830088799999,
+      1.3024359954
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Buona Vista",
+    "abbrev": "Buo",
+    "coordinates": [
+      103.79083588700001,
+      1.307186851
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Clementi",
+    "abbrev": "Cle",
+    "coordinates": [
+      103.76522491899999,
+      1.3150989365999999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Yishun",
+    "abbrev": "Yis",
+    "coordinates": [
+      103.835024016,
+      1.4293767544999998
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Khatib",
+    "abbrev": "Kha",
+    "coordinates": [
+      103.832993824,
+      1.4173071223
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Jurong East",
+    "abbrev": "Jur",
+    "coordinates": [
+      103.74229093,
+      1.3331143293
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Chinese Garden",
+    "abbrev": "Chi",
+    "coordinates": [
+      103.732589124,
+      1.3424632424
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Lakeside",
+    "abbrev": "Lak",
+    "coordinates": [
+      103.720794245,
+      1.3442953019
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Boon Lay",
+    "abbrev": "Boo",
+    "coordinates": [
+      103.70577441299999,
+      1.3384668334
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bukit Batok",
+    "abbrev": "Buk",
+    "coordinates": [
+      103.74958525,
+      1.3490550579
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bukit Gombak",
+    "abbrev": "Buk",
+    "coordinates": [
+      103.751822055,
+      1.3588888637999998
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Choa Chu Kang",
+    "abbrev": "Cho",
+    "coordinates": [
+      103.744321122,
+      1.3853097213999999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bugis",
+    "abbrev": "Bug",
+    "coordinates": [
+      103.85608951,
+      1.3005230773999998
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Lavender",
+    "abbrev": "Lav",
+    "coordinates": [
+      103.863024504,
+      1.3074383137999999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Kallang",
+    "abbrev": "Kal",
+    "coordinates": [
+      103.87133392,
+      1.3114437537
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Aljunied",
+    "abbrev": "Alj",
+    "coordinates": [
+      103.882877272,
+      1.3164819773
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Paya Lebar",
+    "abbrev": "Pay",
+    "coordinates": [
+      103.89230958200001,
+      1.3180446328
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Eunos",
+    "abbrev": "Eun",
+    "coordinates": [
+      103.90287,
+      1.3196780000000001
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Kembangan",
+    "abbrev": "Kem",
+    "coordinates": [
+      103.91275523799999,
+      1.3210531909999998
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bedok",
+    "abbrev": "Bed",
+    "coordinates": [
+      103.92999390799999,
+      1.3239270342
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tanah Merah",
+    "abbrev": "Tan",
+    "coordinates": [
+      103.946504943,
+      1.3272588920000001
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Simei",
+    "abbrev": "Sim",
+    "coordinates": [
+      103.953368072,
+      1.3431727166
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tampines",
+    "abbrev": "Tam",
+    "coordinates": [
+      103.945076622,
+      1.3533657722
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Pasir Ris",
+    "abbrev": "Pas",
+    "coordinates": [
+      103.949253788,
+      1.3730243283
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Sembawang",
+    "abbrev": "Sem",
+    "coordinates": [
+      103.82004910100001,
+      1.4490885543
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Admiralty",
+    "abbrev": "Adm",
+    "coordinates": [
+      103.800950918,
+      1.4406291147999999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Woodlands",
+    "abbrev": "Woo",
+    "coordinates": [
+      103.78767381799999,
+      1.4373872194
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Marsiling",
+    "abbrev": "Mar",
+    "coordinates": [
+      103.774208071,
+      1.4325378381
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Kranji",
+    "abbrev": "Kra",
+    "coordinates": [
+      103.76198199999999,
+      1.4252188450999999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Yew Tee",
+    "abbrev": "Yew",
+    "coordinates": [
+      103.74739336,
+      1.3974603435
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Expo",
+    "abbrev": "Exp",
+    "coordinates": [
+      103.96223444399999,
+      1.3356379106999998
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Dover",
+    "abbrev": "Dov",
+    "coordinates": [
+      103.77861879999999,
+      1.3114168113
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Changi Airport",
+    "abbrev": "Cha",
+    "coordinates": [
+      103.988564065,
+      1.3573352149000002
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Pioneer",
+    "abbrev": "Pio",
+    "coordinates": [
+      103.69734821600001,
+      1.337568763
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Joo Koon",
+    "abbrev": "Joo",
+    "coordinates": [
+      103.67827698200001,
+      1.3277169098000001
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Marina South Pier",
+    "abbrev": "Mar",
+    "coordinates": [
+      103.863283,
+      1.270999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Punggol",
+    "abbrev": "Pun",
+    "coordinates": [
+      103.90235274700001,
+      1.4052464076
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Sengkang",
+    "abbrev": "Sen",
+    "coordinates": [
+      103.895291989,
+      1.391326667
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Buangkok",
+    "abbrev": "Bua",
+    "coordinates": [
+      103.8930462,
+      1.383055608
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Hougang",
+    "abbrev": "Hou",
+    "coordinates": [
+      103.892749756,
+      1.3719017563999998
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Kovan",
+    "abbrev": "Kov",
+    "coordinates": [
+      103.884871531,
+      1.3599755194
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Serangoon",
+    "abbrev": "Ser",
+    "coordinates": [
+      103.873768355,
+      1.3498004528
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Woodleigh",
+    "abbrev": "Woo",
+    "coordinates": [
+      103.870750015,
+      1.3391942701000001
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Potong Pasir",
+    "abbrev": "Pot",
+    "coordinates": [
+      103.869088132,
+      1.3312463385
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Boon Keng",
+    "abbrev": "Boo",
+    "coordinates": [
+      103.86151533399999,
+      1.3198228259
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Farrer Park",
+    "abbrev": "Far",
+    "coordinates": [
+      103.854194064,
+      1.3128178157
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Little India",
+    "abbrev": "Lit",
+    "coordinates": [
+      103.849298246,
+      1.3065671747
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Clarke Quay",
+    "abbrev": "Cla",
+    "coordinates": [
+      103.84686381200001,
+      1.2889736924
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Chinatown",
+    "abbrev": "Chi",
+    "coordinates": [
+      103.84399818600001,
+      1.2850131214
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "HarbourFront",
+    "abbrev": "Har",
+    "coordinates": [
+      103.822474552,
+      1.2652820222
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bartley",
+    "abbrev": "Bar",
+    "coordinates": [
+      103.880442837,
+      1.3424363003
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Lorong Chuan",
+    "abbrev": "Lor",
+    "coordinates": [
+      103.86339281299999,
+      1.3514798356
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Marymount",
+    "abbrev": "Mar",
+    "coordinates": [
+      103.839237115,
+      1.3486060247
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tai Seng",
+    "abbrev": "Tai",
+    "coordinates": [
+      103.888410894,
+      1.3358085442
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "MacPherson",
+    "abbrev": "Mac",
+    "coordinates": [
+      103.890297356,
+      1.3265583939
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Dakota",
+    "abbrev": "Dak",
+    "coordinates": [
+      103.888312079,
+      1.3084351840000001
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Mountbatten",
+    "abbrev": "Mou",
+    "coordinates": [
+      103.882490996,
+      1.3062438653
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Stadium",
+    "abbrev": "Sta",
+    "coordinates": [
+      103.875394305,
+      1.302777267
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Nicoll Highway",
+    "abbrev": "Nic",
+    "coordinates": [
+      103.86349162799999,
+      1.2996698976
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Promenade",
+    "abbrev": "Pro",
+    "coordinates": [
+      103.86107516,
+      1.2927726017
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Esplanade",
+    "abbrev": "Esp",
+    "coordinates": [
+      103.855972729,
+      1.2932575684
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bras Basah",
+    "abbrev": "Bra",
+    "coordinates": [
+      103.850546904,
+      1.296894816
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Caldecott",
+    "abbrev": "Cal",
+    "coordinates": [
+      103.83998271700001,
+      1.3376765315
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Botanic Gardens",
+    "abbrev": "Bot",
+    "coordinates": [
+      103.81570125399999,
+      1.3225889014
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Farrer Road",
+    "abbrev": "Far",
+    "coordinates": [
+      103.807778114,
+      1.3176225363
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Holland Village",
+    "abbrev": "Hol",
+    "coordinates": [
+      103.795740689,
+      1.3121083328
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "one-north",
+    "abbrev": "one",
+    "coordinates": [
+      103.787233643,
+      1.2996070317
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Kent Ridge",
+    "abbrev": "Ken",
+    "coordinates": [
+      103.78440395,
+      1.2932934918999999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Haw Par Villa",
+    "abbrev": "Haw",
+    "coordinates": [
+      103.78176290299999,
+      1.2826511452
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Pasir Panjang",
+    "abbrev": "Pas",
+    "coordinates": [
+      103.791608439,
+      1.2761759067
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Labrador Park",
+    "abbrev": "Lab",
+    "coordinates": [
+      103.80277449799999,
+      1.2723230872
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Telok Blangah",
+    "abbrev": "Tel",
+    "coordinates": [
+      103.809862205,
+      1.2705807846
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bayfront",
+    "abbrev": "Bay",
+    "coordinates": [
+      103.859727687,
+      1.2825343935
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Downtown",
+    "abbrev": "Dow",
+    "coordinates": [
+      103.853340665,
+      1.2791845147
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Telok Ayer",
+    "abbrev": "Tel",
+    "coordinates": [
+      103.84874129100001,
+      1.282121272
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bukit Panjang",
+    "abbrev": "Buk",
+    "coordinates": [
+      103.762134714,
+      1.3782869387
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Cashew",
+    "abbrev": "Cas",
+    "coordinates": [
+      103.76440745200001,
+      1.3698721449000002
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Hillview",
+    "abbrev": "Hil",
+    "coordinates": [
+      103.767111381,
+      1.3624092668
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Beauty World",
+    "abbrev": "Bea",
+    "coordinates": [
+      103.77593283700001,
+      1.3416459997
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "King Albert Park",
+    "abbrev": "Kin",
+    "coordinates": [
+      103.78414343899999,
+      1.3356738335
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Sixth Avenue",
+    "abbrev": "Six",
+    "coordinates": [
+      103.797222909,
+      1.3305817645
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tan Kah Kee",
+    "abbrev": "Tan",
+    "coordinates": [
+      103.807014546,
+      1.3259566839
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Stevens",
+    "abbrev": "Ste",
+    "coordinates": [
+      103.82537611,
+      1.3202179797
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Rochor",
+    "abbrev": "Roc",
+    "coordinates": [
+      103.852575,
+      1.303725
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tuas Link",
+    "abbrev": "Tua",
+    "coordinates": [
+      103.636794,
+      1.3402530000000001
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tuas West Road",
+    "abbrev": "Tua",
+    "coordinates": [
+      103.639486,
+      1.330125
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tuas Crescent",
+    "abbrev": "Tua",
+    "coordinates": [
+      103.648925,
+      1.321221
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Gul Circle",
+    "abbrev": "Gul",
+    "coordinates": [
+      103.660779,
+      1.3197219999999998
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Upper Changi",
+    "abbrev": "Upp",
+    "coordinates": [
+      103.96158,
+      1.342088
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tampines East",
+    "abbrev": "Tam",
+    "coordinates": [
+      103.95329100000001,
+      1.3563969999999999
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Tampines West",
+    "abbrev": "Tam",
+    "coordinates": [
+      103.938366,
+      1.34501
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bedok Reservoir",
+    "abbrev": "Bed",
+    "coordinates": [
+      103.932684,
+      1.336669
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bedok North",
+    "abbrev": "Bed",
+    "coordinates": [
+      103.91848,
+      1.335129
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Kaki Bukit",
+    "abbrev": "Kak",
+    "coordinates": [
+      103.90900699999999,
+      1.334919
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Ubi",
+    "abbrev": "Ubi",
+    "coordinates": [
+      103.90002700000001,
+      1.329864
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Mattar",
+    "abbrev": "Mat",
+    "coordinates": [
+      103.882903,
+      1.327197
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Geylang Bahru",
+    "abbrev": "Gey",
+    "coordinates": [
+      103.871707,
+      1.321425
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bendemeer",
+    "abbrev": "Ben",
+    "coordinates": [
+      103.862967,
+      1.313666
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Jalan Besar",
+    "abbrev": "Jal",
+    "coordinates": [
+      103.855473,
+      1.305397
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Bencoolen",
+    "abbrev": "Ben",
+    "coordinates": [
+      103.850351,
+      1.298848
+    ]
+  },
+  {
+    "type": "minor",
+    "name": "Fort Canning",
+    "abbrev": "For",
+    "coordinates": [
+      103.84485699999999,
+      1.292015
+    ]
+  }
+]
